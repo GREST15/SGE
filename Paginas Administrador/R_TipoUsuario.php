@@ -75,7 +75,7 @@
                     }
                 </script>
                 <!--REGISTRO DE TIPO USUARIO-->
-                <div class="modal fade " id="ModalTipoUsuario" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal fade " id="ModalTipoUsuario" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                     <div class="modal-dialog">
                         <div class="modal-content bggreen">
                             <div class="modal-header">
